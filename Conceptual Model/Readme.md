@@ -3,3 +3,5 @@ This includes
 - the Enterprise Architect model
 - a PDF with the UML diagrams
 - an overview of the changes to the previous version
+
+The table with the github Issues and their grouping into topics to be discussed at the Modelling Subgroup webconferences can be accessed here: https://docs.google.com/spreadsheets/d/1W125JKqL2CztRiU8RSRXa8cIRJm3TB5Fdue8OtC0pIg
